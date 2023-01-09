@@ -55,5 +55,7 @@
 	"editorSetting": {
 		"tabIndent": "tab",
 		"tabSize": 2
-	}
+	},
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate/"
 }
