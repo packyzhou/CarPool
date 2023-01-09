@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-6gwoxjpt2fd1cc47 --n lbs_server --r --project "/Users/zhoujingwei/WeChatProjects/CarPool" --report_first --report
