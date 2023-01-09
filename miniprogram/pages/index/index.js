@@ -6,7 +6,7 @@ Page({
     })
   },
   async tologin() {
-    console.log("开始登陆");
+    console.log("开始登陆.");
     wx.getUserProfile({
       desc: '登录',
       success: async (data) => {
